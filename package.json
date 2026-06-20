@@ -1,0 +1,15 @@
+{
+  "name": "shaka-love-demo",
+  "version": "1.0.0",
+  "description": "Compileable Solidity demo contract for archival and educational display.",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "compile": "hardhat compile",
+    "clean": "hardhat clean"
+  },
+  "devDependencies": {
+    "@openzeppelin/contracts": "^5.0.2",
+    "hardhat": "^2.22.0"
+  }
+}
